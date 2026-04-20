@@ -1,4 +1,4 @@
-📊 Meta Ads Performance Dashboard
+# *📊 Meta Ads Performance Dashboard*
 
 An interactive Power BI dashboard designed to analyze the performance of Meta (Facebook & Instagram) advertising campaigns.
 This project evaluates campaign effectiveness using key marketing KPIs such as CTR, Engagement Rate, Conversion Rate, Purchase Rate, and Audience Demographics.
