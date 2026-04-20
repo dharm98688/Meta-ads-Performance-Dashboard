@@ -5,7 +5,7 @@ This project evaluates campaign effectiveness using key marketing KPIs such as C
 
 The dashboard helps identify high-performing ad formats, target audiences, engagement patterns, and campaign optimization opportunities.
 
-# *🛠 Tools & Technologies
+# 🛠 Tools & Technologies
 📊 Power BI
 📈 DAX (Data Analysis Expressions)
 🧹 Data Cleaning & Transformation
@@ -15,7 +15,7 @@ The dashboard helps identify high-performing ad formats, target audiences, engag
 
 The project uses four relational tables to simulate a real-world digital marketing analytics scenario.
 
-1️⃣ Ad Events Table (ad_events)
+# 1️⃣ Ad Events Table (ad_events)
 
 Contains records of user interactions with ads.
 
@@ -31,7 +31,7 @@ event_type → Type of event (click, share, comment, purchase, etc.)
 
 This table is mainly used for calculating engagement metrics and conversion events.
 
-2️⃣ Ads Table (ads)
+# 2️⃣ Ads Table (ads)
 
 Contains details about each advertisement.
 
@@ -47,7 +47,7 @@ target_interests → Target audience interests
 
 This dataset helps analyze ad format performance and targeting strategy.
 
-3️⃣ Campaigns Table (campaigns)
+# 3️⃣ Campaigns Table (campaigns)
 
 Contains campaign-level information.
 
@@ -62,7 +62,7 @@ total_budget → Total campaign budget
 
 This table is used to evaluate campaign budget utilization and performance.
 
-4️⃣ Users Table (users)
+# 4️⃣ Users Table (users)
 
 Contains demographic information about users interacting with ads.
 
@@ -78,7 +78,7 @@ interests → User interest categories
 
 This table is used to analyze audience demographics and geographic engagement patterns.
 
-📈 Key KPIs
+# 📈 Key KPIs
 
 The dashboard tracks important digital marketing performance metrics:
 
@@ -97,13 +97,13 @@ Average Budget per Campaign
 
 These metrics help evaluate both awareness and conversion funnel performance.
 
-📊 Dashboard Preview
+# 📊 Dashboard Preview
 
 The Power BI dashboard provides an interactive view of Meta advertising performance, highlighting campaign reach, engagement patterns, audience insights, and ad format effectiveness.
 
-Dashboard Components
+# Dashboard Components
 
-📌 KPI Cards
+# # 📌 KPI Cards
 
 Impressions
 Clicks
@@ -115,21 +115,21 @@ Conversion Rate
 Purchase Rate
 Campaign Budget
 
-📌 Audience Insights
+# # 📌 Audience Insights
 
 Impressions by Gender
 Impressions by Age Group
 
-📌 Geographic Analysis
+# # 📌 Geographic Analysis
 
 Country-wise engagement distribution
 
-📌 Time-Based Trends
+# # 📌 Time-Based Trends
 
 Weekly impression trends
 Hourly impression trends
 
-📌 Ad Performance Comparison
+# # 📌 Ad Performance Comparison
 
 CTR by ad type
 Engagement rate by ad type
@@ -137,30 +137,30 @@ Conversion rate by ad type
 
 Interactive filters allow users to analyze campaigns based on campaign name, interests, and marketing metrics.
 
-🔍 Key Insights
+# 🔍 Key Insights
 
-📢 Campaign Performance
+##  📢 Campaign Performance
 
 Ads generated 69K impressions and 8.23K clicks, resulting in a CTR of ~11.76%, indicating strong ad creatives and targeting.
 Engagement rate of ~13.57% shows strong audience interaction.
 
-💰 Conversion Funnel
+# # 💰 Conversion Funnel
 
 The purchase rate is only ~0.61%, showing a drop-off in the lower funnel.
 Indicates the need for landing page optimization and retargeting strategies.
 
-🎥 Ad Format Performance
+# # 🎥 Ad Format Performance
 
 Video ads achieved the highest CTR and engagement rate.
 Stories ads generated the highest impressions.
 Image and Carousel ads performed moderately.
 
-👩 Audience Insights
+# # 👩 Audience Insights
 
 Female users generated the highest engagement.
 The 18–30 age group showed the strongest interaction with ads.
 
-🌍 Geographic Trends
+# # 🌍 Geographic Trends
 
 Top engaged regions include:
 
