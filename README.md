@@ -99,7 +99,8 @@ These metrics help evaluate both awareness and conversion funnel performance.
 
 # 📊 Dashboard Preview
 
-The Power BI dashboard provides an interactive view of Meta advertising performance, highlighting campaign reach, engagement patterns, audience insights, and ad format effectiveness.
+<img width="1153" height="652" alt="image" src="https://github.com/user-attachments/assets/385338b4-198c-4fa1-b2ae-433f123c70d2" />
+
 
 # Dashboard Components
 
